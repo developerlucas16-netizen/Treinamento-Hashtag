@@ -1,0 +1,109 @@
+1 -> Pandas
+    Voltada para análise de dados, permite com que você trabalhe com mais
+    facilidade e versatilidade.
+
+2 -> Numpy
+    Ele complementa o pandas permitindo fazer operações aritiméticas entre
+    tabelas, ou gráficos.
+
+3 -> Polars
+    E um concorrente do pandas mas ele nao tem tantas funções quanto o bandas
+
+4 -> Pyspark
+    Indicado para trabalhar com bigdatas, o pandas e bem completo porem
+    esse framework voce consegue paramentizar as operações deixando
+    mais rápida e eficiente.
+
+5 -> Openpyxl
+    Diferente do pandas você consegue criar planilhas mais completa, de
+    forma que o pandas nao consegue.
+
+6 -> Scikitlearn
+    Muito ultilizado para fazer previsões com IA, como arvore de decisão,
+    Regressões, redes neurais.
+
+7 -> Pytorch e TensorFlow
+    Usado para Deeplearn, ele consegue rodar em paralelo com a placa de video,
+    e usada para redes neurais mais avançadas.
+
+8 -> langchain
+    Ultilizado para criar sistema RAG, ultilizando informações privadas como
+    Base de dados da empresa, pdf da empresa, ele ultiliza a IA para facilitar tarefas.
+
+9 -> HugginFace
+    E aonde você acha todos os modelos de IA.
+
+10 -> Request
+    Permite fazer request com sites ou API.
+
+11 -> Beautifulsoup
+    Ele pega o resultado do request e a organiza para você poder tratar.
+
+12 -> Selenium e playwrite
+    Se você fazer essa tarefa manualmente você consegue automatizar ela com
+    ambas linguagens, ele consegue alem de pegar, voce consegue interagir com
+    os sites, como preencher formularios e login.
+
+13 -> Scrapy
+    Ele e feito para fazer raspagem de grande escalas.
+
+14 -> Pyautogui
+    E uma ferramenta que controla o mouse, teclado e a tela do seu computador.
+
+15 -> FastAPI
+    E uma forma de fazer API mais faceis, exemplo pegar a lista de musicas
+    mais ouvidas do spotify, ele consegue trabalhar com varias requisições
+    ao mesmo tempo.
+
+16 -> Django
+    E o pacote mais completo de WEb no python, o instagram foi feito com django.
+
+17 -> Flask
+    E o um micro Framework, o django e muito mais complexo, mas no entanto
+    e mais completo.
+
+18 -> Pydantic
+    Ele nao e uma usada pra criar site, porem ele tem a melhor validação de dados
+    por isso ele já e muito ultilizado, pela sua padronização.
+
+19 -> Matplotlib e seaborn
+    Esses duas juntas, são o padrao quando se fala em criar gráficos simples, caso
+    queira fazer algo mais completo seu código irá ficar muito extenso.
+
+20 -> plotly
+    você ja tem gráficos bonitos, prontos e interativos
+
+21 -> streamlit
+    Ele permite criar sites para mostrar analises completas, e possui
+    hierarquias.
+
+22 -> pyinstaller
+    Cria um arquivo executavel
+
+23 -> smtplib e email
+    automação de emails
+
+24 -> pickle
+    Ela pega qualquer varial ou objeto ou classe e salvar no computador.
+
+25 -> Pytest
+    E ultizada para criar teste para automações
+
+26 -> Opencv
+    Visão computacional.
+
+27 -> Pillow
+    Tratamento de imagens.
+
+28 -> sqlalchemy
+    É a mais ultilizada no python para fazer a comunicação
+    com o bacno de dados.
+
+29 -> sqlite3
+    é um sistema mais simples que já e pre instalado no python
+
+30 -> Tkinter
+    E possivel criar telas no python, para o usuario interagir com a tela.
+
+31 -> Kivy
+    É uma ferramenta pra criar apps para mobile
